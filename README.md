@@ -13,6 +13,11 @@ Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and 
 Launch the app.
 Use the on-screen buttons or keyboard inputs to perform calculations.
 
+
+![Calculator_App](https://github.com/priyadarshii786/Calculator-Flutter/assets/100780858/8bbec5a0-d9c3-4e5c-bc3f-eeb9d04c8d24)
+
+
+
 A new Flutter project.
 
 ## Getting Started
